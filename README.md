@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
+👨‍💻 I'm Ahmed Hawass, a 25-years old.
 
-<!--
-**Ahmed-Hawass/Ahmed-Hawass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python and diving into the basics of programming.
 
-Here are some ideas to get you started:
+💡 I love solving problems, building projects, and constantly expanding my knowledge in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My goal is to grow as a developer, contribute to meaningful projects, and make an impact through code.
+
+Skills & Interests
+Languages: Python (Beginner)
+
+Interests: open-source projects, and exploring new technologies.
+
+get in touch with me
+📫 Reach me at: [ahmedmahmoud7awass@gmail.com]
